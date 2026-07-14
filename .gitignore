@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules
+dist
+
+# Java
+target/
+*.class
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
